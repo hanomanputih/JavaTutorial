@@ -52,6 +52,7 @@ class MainExplicit {
 
             //Must use either:
             System.gc();              //OR call Runtime.getRuntime().gc();
+            //test
 
             System.out.println("done");
         }
