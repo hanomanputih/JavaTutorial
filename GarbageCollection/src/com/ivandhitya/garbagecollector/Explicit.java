@@ -52,7 +52,7 @@ class MainExplicit {
 
             //Must use either:
             System.gc();              //OR call Runtime.getRuntime().gc();
-            //test
+            //test aja
 
             System.out.println("done");
         }
